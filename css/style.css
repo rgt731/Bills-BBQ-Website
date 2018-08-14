@@ -1,0 +1,104 @@
+body nav {
+    background-color: #6b0805; 
+}
+
+body nav ul li {
+    color: #f9a825;
+}
+
+body{
+    background-color: #f1f2f6; color: #4a5866;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+.container img{
+    height: auto;
+    width: 100%;
+}
+
+.pictures img{
+    height:auto;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: black;
+}
+
+.brand-logo{
+    text-align: center;   
+}
+
+h1, h2, h3, h4, h5 {
+    padding-top: 20px;
+    font-family: 'Holtwood One SC', serif;
+    color: #4a5866;
+}
+
+table tbody tr .tableRight{
+    text-align: right;   
+}
+
+.rightSideNav {
+    float:right; 
+    position:fixed; 
+    right:0;
+}
+
+body .navbar-fixed{
+        height: 64px;   
+}
+
+nav .nav-wrapper a {
+    padding-top: 3px;
+    padding-left: 8px;   
+}
+
+#hamburgerMenu {
+    padding-right: 10px;   
+}
+
+@media (max-width: 992px) {
+    h2, h3, h4, p, table {
+        text-align: center;
+    }
+    
+    .brand-logo{
+        margin-left: 0;   
+    }
+}
+
+.address{
+    text-align:center;
+}
+
+.pictures{
+    margin-left: 30px;   
+}
+
+.pictures .slick-prev {
+    color: green;   
+}
+
+<!--history css-->
+
+.heading{
+    padding:25px; 
+    text-align:center; 
+}
+.container{
+    padding:0px; 
+}
+.container.row.pic1{
+    padding-top: 25px; 
+}
+
+<!--index page-->
+
+
